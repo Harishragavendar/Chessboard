@@ -1,0 +1,21 @@
+*{
+    background-color:grey;
+}
+.row {
+    width: 640px;
+    height: 640px;
+    border: 5px solid black ;
+    margin: auto;
+}
+.black {
+    float: right;
+    width: 80px;
+    height: 80px;
+    background-color:black;
+}
+.white {
+    float:right;
+    width: 80px;
+    height:80px;
+    background-color: white;
+}
